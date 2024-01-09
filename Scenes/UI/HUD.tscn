@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://ixkh2ndsn0ei"]
 
-[ext_resource type="PackedScene" uid="uid://bw5jmpu5j38sh" path="res://Scenes/TileMap.tscn" id="1_dh4qw"]
+[ext_resource type="PackedScene" uid="uid://bw5jmpu5j38sh" path="res://Scenes/world/TileMap.tscn" id="1_dh4qw"]
 
 [node name="Hud" type="CanvasGroup"]
 
